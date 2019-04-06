@@ -1,0 +1,41 @@
+nav,p,button{
+    text-align: center;
+}
+.gameBoard{
+    background: clear;
+	text-align: center;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+}
+.startButton{
+    
+    padding: 20px;
+	text-align: center;
+    font-size: 18px;
+    margin: 0 auto;
+    display: block;
+    
+}
+.seperateQuestions{
+    padding: 20px;
+	text-align: center;
+    font-weight: bold;
+}
+
+label{
+    padding: 5px;
+	text-align: center;
+}
+#submit,#playAgain{
+    margin: 0 auto;
+	text-align: center;
+    display: block;
+}
+body{
+    background-repeat: no-repeat;
+	background-size: 100%;
+    background-size: cover;
+	text-align: center;
+    z-index:-1;
+}
